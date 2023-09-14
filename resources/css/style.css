@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+h1, h2, thead{
+    text-align: center;
+}
+
+table {
+    border: 5px solid red;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    font-weight: 400;
+}
+
+thead {
+    background-color: teal;
+    color: white;
+    font-size: large;
+}
+
+tr, td{
+    border: 1px solid red;
+    padding: 15px;
+}
+
+main {
+    height: 500px;
+}
